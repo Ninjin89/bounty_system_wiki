@@ -2,17 +2,6 @@
 
 A comprehensive bounty system mod for DayZ that allows players to place bounties on other players, with automatic rule-breaker detection, reward systems, and extensive admin controls.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Admin Menu](#admin-menu)
-- [Admin Commands](#admin-commands)
-- [Requirements](#requirements)
-- [How It Works](#how-it-works)
-
 ## 🎯 Overview
 
 Ninjin's Bounty System adds a complete bounty hunting mechanic to DayZ servers. Players can place bounties on other players using bounty tokens, and hunters can claim rewards for eliminating or surviving bountied targets. The system includes automatic rule-breaker detection for PvE/PvP violations, territory integration, and a full admin interface.
