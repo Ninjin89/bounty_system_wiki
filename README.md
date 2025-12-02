@@ -207,7 +207,7 @@ Access the admin menu by setting up a Hotkey in your DayZ Settings.
 - **Spawn Chances**: All items, attachments, and currencies support individual spawn chances
 - **Config Reload**: Changes take effect immediately after reload (no server restart needed)
 - **Logs**: Check `Logs/` folder for detailed server logs
-- **Logs**: Are set in LoggingSettings to 4 which means they are by default off. 1 = Logs everything.
+- **Logs**: Are set in LoggingSettings to 4 which means they are by default off. 0 = Logs everything.
 
 
 ## 🙏 Credits
