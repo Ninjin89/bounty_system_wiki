@@ -12,7 +12,7 @@ Ninjin's Bounty System adds a complete bounty hunting mechanic to DayZ servers. 
 - **Bounty Placement**: Players place bounties using bounty tokens (Gold, Red, or Silver) or whatever classname you use.
 - **Bounty Board**: Interactive board where players can skip bounties and place new ones
 - **Reward System**: Configurable rewards.
-- **Rule Breaker Detection**: Automatic detection and punishment for PvE players attacking PvP players. And also PvE vs PvE (Using Ninjins-PvP-PvE)
+- **Rule Breaker Detection**: Automatic detection and punishment for PvE players attacking PvP players. And also PvE vs PvE (Using Ninjins-PvP-PvE), no rewards are given to Killer or Surivial - this is pure penalty system. THis way you can kill a bountied player even in PvE and pickup his loot as reward after he broke the rule to not soot PvE Players.
 - **Territory Integration**: Optional integration with Expansion Territory (pause/teleport bountied players)
 - **SafeZone Integration**: Optional integration with Expansion SafeZone (teleport bountied players out)
 - **Map Tracking**: Optional circle drawing on map showing approximate location of bountied players
